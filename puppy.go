@@ -1,9 +1,9 @@
 package puppy
 
-func ladrar() string{
+func Ladrar() string{
 	return "woff"
 }
 
-func ladridos() string{
+func Ladridos() string{
 	return "woff, woff, woff"
 }
