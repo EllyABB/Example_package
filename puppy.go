@@ -1,7 +1,7 @@
 package puppy
 
 import(
-	"https://github.com/EllyABB/Example_sub_mod"
+	"github.com/EllyABB/Example_sub_mod"
 )
 
 func Ladrar() string{
