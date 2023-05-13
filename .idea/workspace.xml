@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0db482c-b6fd-4fae-b959-8d9b101c18f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bash_Basic.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_OUTLINE_PART+1_LEARN_TO_CODE_GO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../COURSE_OUTLINE_PART_2_LEARN_TO_CODE_GO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Go_Basic_Commands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/bin/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/cloud.google.com/go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/GoesToEleven/GolangTraining" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/GoesToEleven/SummerBootCamp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/GoesToEleven/go-programming" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/GoesToEleven/golang-web-dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/aerospike/aerospike-client-go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/alecthomas/template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/dustin/go-humanize" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/go-sql-driver/mysql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/golang/groupcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/golang/protobuf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/google/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/googleapis/gax-go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/gorilla/context" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/gorilla/mux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/gorilla/securecookie" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/gorilla/sessions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/julienschmidt/httprouter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/lib/pq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/nu7hatch/gouuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/rwcarlsen/goexif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/satori/go.uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/stripe/stripe-go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/ttacon/chalk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/github.com/yuin/gopher-lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/go.opencensus.io" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/crypto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/oauth2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/sync" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/sys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/golang.org/x/xerrors" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/google.golang.org/appengine" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/google.golang.org/cloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/google.golang.org/genproto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/google.golang.org/grpc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/google.golang.org/protobuf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/gopkg.in/mgo.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/gopl.io" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../goworkspace/src/rsc.io/letsencrypt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PkJyoci2IXklPkoXVFOHMuaznV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "last_opened_file_path": "/home/elly",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "go"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
