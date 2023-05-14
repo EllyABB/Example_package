@@ -13,10 +13,10 @@ func Ladridos() string{
 }
 
 func La_que_llama_a_otra() string{
-	return sub_pack.Algo(Ladrar)
+	return sub_pack.Algo(Ladrar())
 }
 
 
 func La_que_llama_a_otra2() string{
-	return sub_pack.Algo(Ladridos)
+	return sub_pack.Algo(Ladridos())
 }
